@@ -1,0 +1,3 @@
+- This folder contains a Simple Linear Regression model that predicts GPA score based on SAT points using Statsmodels. As seen in the model I've applied important concepts such as how a regression looks and how to plot it on a scatterplot using matplotlib. The score is 40% which indicates that the model is far from being accurate. We need to search for features that can add signficant explanatory power to our model
+
+- Detailed comments are inside the file.

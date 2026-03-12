@@ -1,0 +1,4 @@
+Data/*.csv
+Data/*.tar
+Data/*.gz
+.ipynb_checkpoints/
